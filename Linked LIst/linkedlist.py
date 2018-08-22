@@ -20,6 +20,7 @@ class linkedlist(object):
             newNode.nextNode=self.head
             self.head=newNode
 
+
     def size(self):
         return self.size
 
